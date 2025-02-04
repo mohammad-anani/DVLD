@@ -1,0 +1,9 @@
+C:\Users\AnaniFamily\source\repos\DVLDBusiness\bin\Debug\DVLDBusiness.dll
+C:\Users\AnaniFamily\source\repos\DVLDBusiness\bin\Debug\DVLDBusiness.pdb
+C:\Users\AnaniFamily\source\repos\DVLDBusiness\bin\Debug\DVLD_Data.dll
+C:\Users\AnaniFamily\source\repos\DVLDBusiness\bin\Debug\DVLD_Data.pdb
+C:\Users\AnaniFamily\source\repos\DVLDBusiness\obj\Debug\DVLDBusiness.csproj.AssemblyReference.cache
+C:\Users\AnaniFamily\source\repos\DVLDBusiness\obj\Debug\DVLDBusiness.csproj.CoreCompileInputs.cache
+C:\Users\AnaniFamily\source\repos\DVLDBusiness\obj\Debug\DVLDBusi.27287F95.Up2Date
+C:\Users\AnaniFamily\source\repos\DVLDBusiness\obj\Debug\DVLDBusiness.dll
+C:\Users\AnaniFamily\source\repos\DVLDBusiness\obj\Debug\DVLDBusiness.pdb

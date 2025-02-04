@@ -1,0 +1,51 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using DVLDBusiness;
+
+namespace DVLD
+{
+    
+    public partial class AddPerson : Form
+    {
+        public static int _ID {  get; set; }
+
+       public delegate void OnsaveEvent(object sender);
+        public event OnsaveEvent onsave;
+
+
+        public AddPerson(int iD)
+        {
+            InitializeComponent();
+            _ID = iD;
+            ctrlAddUpdatePerson1.id = _ID;
+           
+        }
+
+        private void AddPerson_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ctrlAddUpdatePerson1_Load(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void ctrlAddUpdatePerson1_OnCLose()
+        {
+            this.Close();
+        }
+
+        private void ctrlAddUpdatePerson1_OnSave()
+        {
+            onsave?.Invoke(this);
+        }
+    }
+}
