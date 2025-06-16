@@ -1,7 +1,59 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632EE786-C418-4CA4-8678-5FF664C7546D}|..\\DVLD_Data\\DVLD_Data.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld_data\\generatedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632EE786-C418-4CA4-8678-5FF664C7546D}|..\\DVLD_Data\\DVLD_Data.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld_data\\clsapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4496F71-6658-4831-A453-65B6D9DCA141}|..\\DVLDBusiness\\DVLDBusiness.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvldbusiness\\generatescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632EE786-C418-4CA4-8678-5FF664C7546D}|..\\DVLD_Data\\DVLD_Data.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld_data\\clsdatasettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632EE786-C418-4CA4-8678-5FF664C7546D}|..\\DVLD_Data\\DVLD_Data.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld_data\\clsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld\\login.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|solutionrelative:login.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld\\login\\login screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|solutionrelative:login\\login screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld\\login\\login screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|solutionrelative:login\\login screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld\\people\\ctrladdupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|solutionrelative:people\\ctrladdupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\people\\ctrladdupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDEB7D00-6A0D-4090-AE73-2A317151A046}|DVLD.csproj|solutionrelative:people\\ctrladdupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632EE786-C418-4CA4-8678-5FF664C7546D}|..\\DVLD_Data\\DVLD_Data.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld_data\\clsldlapplicationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632EE786-C418-4CA4-8678-5FF664C7546D}|..\\DVLD_Data\\DVLD_Data.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld_data\\clstestappointmentsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632EE786-C418-4CA4-8678-5FF664C7546D}|..\\DVLD_Data\\DVLD_Data.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvld_data\\clstestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4496F71-6658-4831-A453-65B6D9DCA141}|..\\DVLDBusiness\\DVLDBusiness.csproj|c:\\users\\ananifamily\\source\\repos\\dvld-projects\\dvldbusiness\\clstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +82,200 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerateScript.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLDBusiness\\GenerateScript.cs",
+              "RelativeDocumentMoniker": "..\\DVLDBusiness\\GenerateScript.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLDBusiness\\GenerateScript.cs",
+              "RelativeToolTip": "..\\DVLDBusiness\\GenerateScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:35:40.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsDataSettings.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clsDataSettings.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Data\\clsDataSettings.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clsDataSettings.cs",
+              "RelativeToolTip": "..\\DVLD_Data\\clsDataSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:28:44.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clsApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Data\\clsApplicationData.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clsApplicationData.cs",
+              "RelativeToolTip": "..\\DVLD_Data\\clsApplicationData.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAgwHkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:20:25.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsApplication.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clsApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Data\\clsApplication.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clsApplication.cs",
+              "RelativeToolTip": "..\\DVLD_Data\\clsApplication.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:20:15.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenerateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\GenerateDatabase.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Data\\GenerateDatabase.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\GenerateDatabase.cs",
+              "RelativeToolTip": "..\\DVLD_Data\\GenerateDatabase.cs",
+              "ViewState": "AgIAADUFAAAAAAAAAAD4vzYHAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:20:06.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:55:26.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.txt",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\Login.txt",
+              "RelativeDocumentMoniker": "Login.txt",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\Login.txt",
+              "RelativeToolTip": "Login.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-16T18:53:18.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login Screen.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\Login\\Login Screen.cs",
+              "RelativeDocumentMoniker": "Login\\Login Screen.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\Login\\Login Screen.cs",
+              "RelativeToolTip": "Login\\Login Screen.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:14:50.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login Screen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\Login\\Login Screen.cs",
+              "RelativeDocumentMoniker": "Login\\Login Screen.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\Login\\Login Screen.cs [Design]",
+              "RelativeToolTip": "Login\\Login Screen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:14:46.998Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clstestappointmentsData.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clstestappointmentsData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Data\\clstestappointmentsData.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clstestappointmentsData.cs",
+              "RelativeToolTip": "..\\DVLD_Data\\clstestappointmentsData.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:16:05.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsTestData.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clsTestData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Data\\clsTestData.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clsTestData.cs",
+              "RelativeToolTip": "..\\DVLD_Data\\clsTestData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:16:01.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "clsLDLApplicationData.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clsLDLApplicationData.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_Data\\clsLDLApplicationData.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD_Data\\clsLDLApplicationData.cs",
+              "RelativeToolTip": "..\\DVLD_Data\\clsLDLApplicationData.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAADwvzQBAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:15:24.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "clsTest.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLDBusiness\\clsTest.cs",
+              "RelativeDocumentMoniker": "..\\DVLDBusiness\\clsTest.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLDBusiness\\clsTest.cs",
+              "RelativeToolTip": "..\\DVLDBusiness\\clsTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T20:15:12.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ctrlAddUpdatePerson.cs",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\People\\ctrlAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "People\\ctrlAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\People\\ctrlAddUpdatePerson.cs",
+              "RelativeToolTip": "People\\ctrlAddUpdatePerson.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAcwFcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:06:01.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ctrlAddUpdatePerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\People\\ctrlAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "People\\ctrlAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\AnaniFamily\\source\\repos\\DVLD-Projects\\DVLD\\People\\ctrlAddUpdatePerson.cs [Design]",
+              "RelativeToolTip": "People\\ctrlAddUpdatePerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:05:46.635Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

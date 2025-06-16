@@ -9,5 +9,7 @@ namespace DVLD_Data
     public class clsDataSettings
     {
         public static string ConnectionString = "server=.;database=dvld;trusted_connection=true";
+        public static string ConnectionStringMaster = "server=.;database=master;trusted_connection=true";
+
     }
 }

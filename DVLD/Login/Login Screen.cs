@@ -22,7 +22,7 @@ namespace DVLD
 
         private void Login_Screen_Load(object sender, EventArgs e)
         {
-            string text = File.ReadAllText("C:\\Users\\AnaniFamily\\Downloads\\Login.txt");
+            string text = File.ReadAllText(@"..\..\Login.txt");
             if (text!="")
             {
                 txtusername.Text = text.Substring(0, text.IndexOf(' '));
@@ -33,12 +33,12 @@ namespace DVLD
 
         void ClearFile()
         {
-            File.WriteAllText("C:\\Users\\AnaniFamily\\Downloads\\Login.txt","");
+            File.WriteAllText(@"..\..\Login.txt","");
         }
         void SaveToFile()
         {
             string text = txtusername.Text + " " + txtpassword.Text;
-            File.WriteAllText("C:\\Users\\AnaniFamily\\Downloads\\Login.txt", text);
+            File.WriteAllText(@"..\..\Login.txt", text);
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -93,6 +93,11 @@ namespace DVLD
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtusername_TextChanged(object sender, EventArgs e)
         {
 
         }

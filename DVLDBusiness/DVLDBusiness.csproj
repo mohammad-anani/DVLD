@@ -56,6 +56,7 @@
     <Compile Include="clstestappointment.cs" />
     <Compile Include="clsTestType.cs" />
     <Compile Include="clsUser.cs" />
+    <Compile Include="GenerateScript.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

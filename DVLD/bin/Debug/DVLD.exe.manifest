@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="DVLD.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="DVLD.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="DVLD" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -49,19 +49,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BnLZ7L+UC+3wa5yaNGI3O3MhgQeFh8SST0Oy+1wBpbU=</dsig:DigestValue>
+        <dsig:DigestValue>TNLCDWFuX1obch9/+4DpZ1W15wsOPJAZlueVXOC87zQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DVLD_Data.dll" size="46080">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DVLD_Data.dll" size="253440">
       <assemblyIdentity name="DVLD_Data" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WNObnH8PdXyA9ELgyXoBSvocxi3R0IWbtxjkOL5xbqk=</dsig:DigestValue>
+        <dsig:DigestValue>SaQ6hiNUqZpaL47cRs+c2Yct496tU3NQTUG0bo5LtaU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -73,7 +73,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2CG5nIbQ0byVTniYIP6YfjJTYAN9Rp8u7R82FZ9iKUM=</dsig:DigestValue>
+        <dsig:DigestValue>h8/f2e/xzQ7HOZkLKo96rqUnbDPQ/Qy668LxO7ZeCOA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -84,6 +84,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Login.txt" size="17">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>nUF3zqIwJ2dwXz2WEs+9HcdzFLfB3nDoLsjK8addKeI=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

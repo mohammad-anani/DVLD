@@ -4,3 +4,9 @@ C:\Users\AnaniFamily\source\repos\DVLD_Data\obj\Debug\DVLD_Data.csproj.AssemblyR
 C:\Users\AnaniFamily\source\repos\DVLD_Data\obj\Debug\DVLD_Data.csproj.CoreCompileInputs.cache
 C:\Users\AnaniFamily\source\repos\DVLD_Data\obj\Debug\DVLD_Data.dll
 C:\Users\AnaniFamily\source\repos\DVLD_Data\obj\Debug\DVLD_Data.pdb
+C:\Users\AnaniFamily\source\repos\DVLD-Projects\DVLD_Data\bin\Debug\DVLD_Data.dll
+C:\Users\AnaniFamily\source\repos\DVLD-Projects\DVLD_Data\bin\Debug\DVLD_Data.pdb
+C:\Users\AnaniFamily\source\repos\DVLD-Projects\DVLD_Data\obj\Debug\DVLD_Data.csproj.AssemblyReference.cache
+C:\Users\AnaniFamily\source\repos\DVLD-Projects\DVLD_Data\obj\Debug\DVLD_Data.csproj.CoreCompileInputs.cache
+C:\Users\AnaniFamily\source\repos\DVLD-Projects\DVLD_Data\obj\Debug\DVLD_Data.dll
+C:\Users\AnaniFamily\source\repos\DVLD-Projects\DVLD_Data\obj\Debug\DVLD_Data.pdb
